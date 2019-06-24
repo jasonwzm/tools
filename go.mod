@@ -40,3 +40,5 @@ require (
 	k8s.io/helm v2.12.0+incompatible
 	k8s.io/klog v0.1.0 // indirect
 )
+
+replace gopkg.in/russross/blackfriday.v2 v2.0.0 => github.com/russross/blackfriday/v2 v2.0.0
