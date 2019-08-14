@@ -17,6 +17,7 @@ vendor
 *.so
 *.dylib
 openapi/cue/cue
+cue-validate-gen/cue-validate-gen
 
 # Test binary, build with `go test -c`
 *.test
